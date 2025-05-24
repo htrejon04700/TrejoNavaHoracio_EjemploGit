@@ -8,3 +8,11 @@ Vamos a crear un archivo de prueba.
 //git add . //sirve para agregar archivos
 
 //git status //sirve para saber el estado de la carga de los archivos
+
+//git commit -m //hace commit -m agrega un comentario al commit
+
+//git branch -M main
+
+//git remote add origin https://github.com/htrejon04700/TrejoNavaHoracio_EjemploGit.git
+
+git add .
