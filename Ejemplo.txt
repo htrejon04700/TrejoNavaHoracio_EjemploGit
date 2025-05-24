@@ -1,0 +1,10 @@
+Vamos a crear un archivo de prueba.
+//git init //sirve para inicializar el proyector
+
+//git config --global user.name "htrejon04700"
+
+//git config --global user.email "htrejon@gmail.com"
+
+//git add . //sirve para agregar archivos
+
+//git status //sirve para saber el estado de la carga de los archivos
